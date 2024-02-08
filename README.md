@@ -112,7 +112,7 @@ SVG](https://readme-typing-svg.demolab.com/?lines=Hello,There!+👋;_I'm+Shad+Az
 
 <p>
     <img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=azam-shad&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=azam-shad&show_icons=true&locale=en&layout=compact"
         alt="azam-shad" />
 </p>
 
